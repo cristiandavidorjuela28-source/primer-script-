@@ -1,0 +1,17 @@
+[Rainmeter]
+Update=1000
+
+[Metadata]
+Name=
+Author=
+Information=
+License=
+Version=
+
+[MeterImage]
+Meter=Image
+ImageName=#@#logo
+W=30
+H=25
+X=200
+Y=50
